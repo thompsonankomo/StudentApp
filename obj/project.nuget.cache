@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kekTRry52Bg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thomp\\final_studentapp\\StudentApp\\StudentManagementSystem\\StudentManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thomp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

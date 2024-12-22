@@ -1,0 +1,5 @@
+C:\Users\thomp\final_studentapp\StudentApp\StudentApp\obj\Debug\net8.0\StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thomp\final_studentapp\StudentApp\StudentApp\obj\Debug\net8.0\StudentApp.AssemblyInfoInputs.cache
+C:\Users\thomp\final_studentapp\StudentApp\StudentApp\obj\Debug\net8.0\StudentApp.AssemblyInfo.cs
+C:\Users\thomp\final_studentapp\StudentApp\StudentApp\obj\Debug\net8.0\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\thomp\final_studentapp\StudentApp\StudentApp\obj\Debug\net8.0\StudentApp.sourcelink.json
